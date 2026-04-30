@@ -521,3 +521,70 @@ admin-trainers.png        → Eğitmen yönetimi
 admin-products.png        → Ürün yönetimi
 admin-orders.png          → Sipariş yönetimi
 admin-roles.png           → Yetki yönetimi
+## Ekran Görüntüleri / Screenshots
+
+### 1. Ana Sayfa
+![Screenshot 1](Screenshots/1.png)
+
+### 2. Ana Sayfa - İçerik Bölümü
+![Screenshot 2](Screenshots/2.png)
+
+### 3. Programlar Bölümü
+![Screenshot 3](Screenshots/3.png)
+
+### 4. Eğitmenler Bölümü
+![Screenshot 4](Screenshots/4.png)
+
+### 5. Salon Paketleri
+![Screenshot 5](Screenshots/5.png)
+
+### 6. Üyelik Sayfası
+![Screenshot 6](Screenshots/6.png)
+
+### 7. Kullanıcı Paneli
+![Screenshot 7](Screenshots/7.png)
+
+### 8. Ürünler Sayfası
+![Screenshot 8](Screenshots/8.png)
+
+### 9. Ürün Listeleme
+![Screenshot 9](Screenshots/9.png)
+
+### 10. Sepet
+![Screenshot 10](Screenshots/10.png)
+
+### 11. Cüzdana Bakiye Yükleme
+![Screenshot 11](Screenshots/11.png)
+
+### 12. Sipariş Geçmişi
+![Screenshot 12](Screenshots/12.png)
+
+### 13. Cüzdan Sayfası
+![Screenshot 13](Screenshots/13.png)
+
+### 14. Admin Dashboard
+![Screenshot 14](Screenshots/14.png)
+
+### 15. Admin Eğitmen Yönetimi
+![Screenshot 15](Screenshots/15.png)
+
+### 16. Admin Üye Yönetimi
+![Screenshot 16](Screenshots/16.png)
+
+### 17. Admin Ürün Yönetimi
+![Screenshot 17](Screenshots/17.png)
+
+### 18. Admin Sipariş Yönetimi
+![Screenshot 18](Screenshots/18.png)
+
+### 19. Admin Salon Paketleri
+![Screenshot 19](Screenshots/19.png)
+
+### 20. Admin Yetki Yönetimi
+![Screenshot 20](Screenshots/20.png)
+
+### 21. Eğitmen Profil Güncelleme
+![Screenshot 21](Screenshots/21.png)
+
+### 22. Şifre Yenileme
+![Screenshot 22](Screenshots/22.png)
